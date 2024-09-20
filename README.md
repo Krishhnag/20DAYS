@@ -1,6 +1,6 @@
-# 20DAYS
-PYTHON PROJECTS
-day 1 - pcap reader 
-      -> takes pcap data (in decimal form) converts it into ascii.
-day 2 - madlibs
-      -> takes user input for various variables and adds the variables in a pre existing string, making for a amusing game.
+# 20DAYS<br>
+PYTHON PROJECTS<br>
+day 1 - pcap reader<br> 
+      -> takes pcap data (in decimal form) converts it into ascii.<br>
+day 2 - madlibs<br>
+      -> takes user input for various variables and adds the variables in a pre existing string, making for a amusing game.<br>
